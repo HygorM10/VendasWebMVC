@@ -1,4 +1,4 @@
-# Nome do produto
+# Vendas Web MVC
 > Projeto de controle de vendedores, vendas e departamentos.
 
 [![nuget version][nuget-image]][nuget-url]
