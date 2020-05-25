@@ -8,8 +8,6 @@
 Sistema desenvolvido em .NET Core, feito para estudo do framework e de suas pecularidades. 
 O sistema consiste em um controle de vendedores, vendas e departamentos.
 
-![](../header.png)
-
 ## Instalação
 
 OS X & Linux:
