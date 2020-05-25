@@ -30,8 +30,8 @@ _Para mais exemplos, consulte a [Wiki][wiki]._
 
 ## Configuração para Desenvolvimento
 
-Para rodar o projeto é necessario a instalação do MySQL e sua devida configuração na maquina local.
-É indensavel alterar no arquivo JSON appsettings.json o <userid> <password>. 
+Para rodar o projeto é necessário a instalação do MySQL e sua devida configuração na maquina local.
+É indispensável alterar no arquivo JSON appsettings.json o <userid> <password>. 
 
 ```nuget
 Update-Database
